@@ -37,22 +37,22 @@ A terminal-based Hangman game written in Python 3. The player guesses a hidden w
 1. Clone this repository:
 
    ```
-   git clone https://github.com/zeeshangbaloch-lang/Datheon_Python_Internship.git
+   git clone https://github.com/zeeshangbaloch-lang/Datheon_Python_Programming_Internship.git
    ```
 
 2. Go into the project folder:
 
    ```
-   cd Datheon_Python_Internship/Task1_Hangman
+   cd Datheon_Python_Programming_Internship/Task1_Hangman
    ```
 
 ### How to Run
 
 ```
-python hangman.py
+python hangman_improved.py
 ```
 
-On some systems use `python3 hangman.py` instead.
+On some systems use `python3 hangman_improved.py` instead.
 
 ### How to Play
 
@@ -116,7 +116,7 @@ A console program that tracks a stock portfolio. The user enters ticker symbols,
 ### How to Run
 
 ```
-cd Datheon_Python_Internship/Task2_Stock_Portfolio_Tracker
+cd Datheon_Python_Programming_Internship/Task2_Stock_Portfolio_Tracker
 python portfolio.py
 ```
 
@@ -155,10 +155,10 @@ Overall result : +6.00%
 ## Project Structure
 
 ```
-Datheon_Python_Internship/
+Datheon_Python_Programming_Internship/
 ├── README.md
 ├── Task1_Hangman/
-│   └── hangman.py
+│   └── hangman_improved.py
 └── Task2_Stock_Portfolio_Tracker/
     ├── portfolio.py
     └── portfolio_summary.csv
